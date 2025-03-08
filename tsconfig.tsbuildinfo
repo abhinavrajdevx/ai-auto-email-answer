@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/processes/scanmailbox.ts","./src/types/index.ts","./src/utils/getinbox.ts","./src/utils/sendmail.ts"],"version":"5.8.2"}
