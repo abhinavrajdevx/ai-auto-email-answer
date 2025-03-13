@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/types.ts","./src/ai/generatemail.ts","./src/utils/email/email-socket.ts","./src/utils/email/send-mail.ts"],"version":"5.8.2"}

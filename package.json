@@ -1,0 +1,19 @@
+{
+  "name": "ai-email",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tsc -b && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "groq-sdk": "^0.16.0",
+    "imap": "^0.8.19",
+    "mailparser": "^3.7.2",
+    "typescript": "^5.8.2"
+  }
+}
